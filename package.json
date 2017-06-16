@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-doorsensor",
+  "version": "0.0.1",
+  "description": "Door/contact sensor plugin for Homebridge",
+  "keywords": [
+    "homebridge-plugin",
+    "door sensor",
+    "contact sensor"
+  ],
+  "license": "MIT",
+  "author": "Paul DeMarco <pdemarco925@comcast.net>",
+  "dependencies": {
+    "rpio": "^0.9.16"
+  },
+  "engines": {
+    "node": ">=4.3.2",
+    "homebridge": ">=0.4.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdemarco925/homebridge-doorsensor.git"
+  }
+}
+
