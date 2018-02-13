@@ -1,6 +1,6 @@
 {
   "name": "homebridge-doorsensor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Door/contact sensor plugin for Homebridge",
   "keywords": [
     "homebridge-plugin",
