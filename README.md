@@ -1,3 +1,6 @@
+[![view on npm](http://img.shields.io/npm/v/homebridge-doorsensor.svg)](https://www.npmjs.org/package/homebridge-doorsensor)
+[![npm module downloads](http://img.shields.io/npm/dt/homebridge-doorsensor.svg)](https://www.npmjs.org/package/homebridge-doorsensor)
+
 # homebridge-doorsensor
 
 This is a plugin for [homebridge](https://github.com/nfarina/homebridge) which can either monitor 1) a contact / door sensor connected to power and a GPIO pin or 2) a file populated with a 1 or a 0 that serves the same purpose.
