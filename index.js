@@ -1,5 +1,5 @@
 //        {
-//             "accessory": "DoorSensor",
+//             "platform": "DoorSensor",
 //             "name": "Garage Door",
 //             "sensorPollInMs": 5000,
 //             "flipBehavior": false,
